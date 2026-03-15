@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ラヴソング",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-15T16:21:59.364898Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴソング",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/01_ラヴソング_理芽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わくらば色の風(ラヴソング) - 2012 Remaster",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/02_わくらば色の風(ラヴソング)_-_2012_Remaster_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラヴソング",
+      "artist": "Kaji Hitomi",
+      "has_synced": true,
+      "path": "select/03_ラヴソング_Kaji_Hitomi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラヴソング",
+      "artist": "RIM (理芽)",
+      "has_synced": true,
+      "path": "select/04_ラヴソング_RIM_(理芽).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラヴソング",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_ラヴソング_FINLANDS.txt"
+    }
+  ]
+}
